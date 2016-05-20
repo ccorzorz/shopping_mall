@@ -1,0 +1,117 @@
+{
+ "家电": {
+  "微波炉": {
+   "price": 800,
+   "belong": "家电",
+   "stock": 2995
+  },
+  "热水器": {
+   "price": 600,
+   "belong": "家电",
+   "stock": 900
+  },
+  "洗衣机": {
+   "price": 999,
+   "belong": "家电",
+   "stock": 598
+  },
+  "彩电": {
+   "price": 5000,
+   "belong": "家电",
+   "stock": 399
+  },
+  "冰箱": {
+   "price": 3000,
+   "belong": "家电",
+   "stock": 300
+  }
+ },
+ "服装": {
+  "Nudie牛仔裤": {
+   "price": 699,
+   "belong": "服装",
+   "stock": 3978
+  },
+  "T恤": {
+   "price": 300,
+   "belong": "服装",
+   "stock": 892
+  },
+  "小白鞋": {
+   "price": 900,
+   "belong": "服装",
+   "stock": 5964
+  },
+  "驴牌腰带": {
+   "price": 9999,
+   "belong": "服装",
+   "stock": 2999
+  }
+ },
+ "电脑": {
+  "IBM X240": {
+   "price": 6999,
+   "belong": "电脑",
+   "stock": 3003
+  },
+  "Surface Book": {
+   "price": 8999,
+   "belong": "电脑",
+   "stock": 3020
+  },
+  "Mac pro": {
+   "price": 9999,
+   "belong": "电脑",
+   "stock": 3995
+  },
+  "Mac Air": {
+   "price": 6999,
+   "belong": "电脑",
+   "stock": 6002
+  }
+ },
+ "汽车": {
+  "PASST": {
+   "price": 299999,
+   "belong": "汽车",
+   "stock": 297
+  },
+  "BMW X3": {
+   "price": 499999,
+   "belong": "汽车",
+   "stock": 399
+  },
+  "Tesla Model S": {
+   "price": 799999,
+   "belong": "汽车",
+   "stock": 3000
+  },
+  "Porsche 911": {
+   "price": 2999999,
+   "belong": "汽车",
+   "stock": 594
+  }
+ },
+ "手机": {
+  "XiaoMi 4": {
+   "price": 1999,
+   "belong": "手机",
+   "stock": 5396
+  },
+  "华为Mate": {
+   "price": 2999,
+   "belong": "手机",
+   "stock": 5996
+  },
+  "Iphone": {
+   "price": 5888,
+   "belong": "手机",
+   "stock": 2998
+  },
+  "锤子2(这特么真是手机)": {
+   "price": 998,
+   "belong": "手机",
+   "stock": 2994
+  }
+ }
+}
